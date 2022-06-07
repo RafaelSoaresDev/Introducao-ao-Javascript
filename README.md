@@ -1,4 +1,4 @@
-# Primeiro projeto JavasScript
+# Primeiro projeto JavaScript
 
 Nesse projeto estou aprendendo mais sobre os fundamentos da linguagem, utilizando funções, eventos e entendo o básico da intereção do projeto como um todo. 
 
